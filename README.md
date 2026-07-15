@@ -66,17 +66,17 @@ The primary objectives of this project are:
 
 ### Dashboard Visualizations
 
-- Revenue by Campaign Type 
-- Monthly Revenue Trend 
-- Customer Segment Conversions 
-- Revenue by Campaign Type 
-- Campaign Distribution 
-- Revenue vs Conversions 
-- Average ROI by Campaign Type 
-- Revenue vs Acquisition Cost 
-- Revenue by Target Audience 
-- Revenue Contribution 
-- Campaign Performance Matrix 
+- Revenue by Campaign Type (Column Chart)
+- Monthly Revenue Trend (Line Chart)
+- Customer Segment Conversions (Bar Chart)
+- Revenue by Campaign Type (Treemap)
+- Campaign Distribution (Donut Chart)
+- Revenue vs Conversions (Combo Chart)
+- Average ROI by Campaign Type (Column Chart)
+- Revenue vs Acquisition Cost (Scatter Plot)
+- Revenue by Target Audience (Bar Chart)
+- Revenue Contribution (Waterfall Chart)
+- Campaign Performance Matrix (Table)
 
 ---
 
@@ -140,13 +140,9 @@ The dashboard should enable business users to:
 
 - Power Query
 
-
-
 ### Calculations
 
 - DAX Measures
-
-
 
 ## 🔟 Conclusion
 
@@ -155,7 +151,6 @@ The Marketing Campaign Analysis Dashboard provides an interactive solution for m
 Its interactive design allows stakeholders to explore campaign performance efficiently and supports strategic marketing planning.
 
 ---
-
 
 ## ⭐ Key Skills Demonstrated
 
