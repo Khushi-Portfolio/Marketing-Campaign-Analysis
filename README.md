@@ -182,6 +182,3 @@ This dashboard demonstrates practical skills in Power BI, data visualization, bu
 **Khushikumar Shahukara**
 
 MBA (Business Analytics & Marketing)
-
-
-LinkedIn: *(Add your LinkedIn profile link here)*
