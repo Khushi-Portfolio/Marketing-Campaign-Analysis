@@ -82,10 +82,7 @@ The primary objectives of this project are:
 
 ## 5️⃣ Dashboard Preview
 
-> Replace the image below with your dashboard screenshot after uploading it to GitHub.
-
-```markdown
-![Marketing Campaign Dashboard](dashboard.png)
+> (dashboard.png)
 ```
 
 ---
