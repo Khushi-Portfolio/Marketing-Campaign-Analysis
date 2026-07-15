@@ -183,6 +183,5 @@ This dashboard demonstrates practical skills in Power BI, data visualization, bu
 
 MBA (Business Analytics & Marketing)
 
-GitHub: https://github.com/Khushi-Portfolio
 
 LinkedIn: *(Add your LinkedIn profile link here)*
